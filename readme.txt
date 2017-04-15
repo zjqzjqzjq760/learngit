@@ -1,1 +1,2 @@
-Hello World,my friend.
+Hello,my friend.
+I want to introduce git to you.
