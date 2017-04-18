@@ -1,3 +1,3 @@
 Hello,my friend.
 I want to introduce git to you.
-Let us start now.
+Let's start now.
